@@ -1,0 +1,2 @@
+# MBlog
+init blog
